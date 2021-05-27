@@ -1,0 +1,2 @@
+rootProject.name = "Ktor http request"
+include ':app'
